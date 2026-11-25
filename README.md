@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [Tell a Whole Story in 32 Characters](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978).
 
-> ItWasntMe_TheRouterDidIt
+> MyRouterFramedMe_Again
 
 ## Run
 

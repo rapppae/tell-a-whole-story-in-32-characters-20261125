@@ -1,12 +1,12 @@
 """Entry for make.fun bounty "Tell a Whole Story in 32 Characters".
 
-Entry text (24 characters, limit: at most 32 characters).
+Entry text (22 characters, limit: at most 32 characters).
 No trailing newline is written, per the bounty text format.
 """
 
 import os
 
-ENTRY = 'ItWasntMe_TheRouterDidIt'
+ENTRY = 'MyRouterFramedMe_Again'
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")
